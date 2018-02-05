@@ -1,2 +1,3 @@
 # clausifylisp
-lisp
+
+This repo contains the source of project Clausify Lisp
